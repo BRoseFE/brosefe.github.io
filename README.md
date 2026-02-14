@@ -1,21 +1,28 @@
-# Branson Rose - Personal Site #
+# Branson Rose - Personal Site
 
-Junior front-end developer specializing in React, HTML, CSS, and Javascript.
+## Description
+A lightweight personal portfolio focused on clean layout and responsive design, and clarity.
 
-## Live Site ##
-- https://brosefe.github.io/
-
-## Tech ##
+## Tech
 - HTML
 - CSS
-- JavaScript
 
-## Description ##
-A lightweight personal portfolio focused on clean layout, responsive design, and accessible UI basics.
+### What I built
+- Responsive layout across common breakpoints
+- Keyboard-accessible navigation
+- Semantic HTML structure for clear content hierarchy
+- Clear typography and spacing for readability
 
-## Run locally ##
-Open "index.html" in your browser.
+## Live Site
+- https://brosefe.github.io/
 
-## Contact ##
+## What I learned
+- Accessibility tradeoffs in small, real-world interfaces
+- How HTML semantics improve structure, maintainability, and accessibility
+- Managing responsive layouts with media queries
+- How small changes in CSS affect usability and readability
+- When to keep solutions simple instead of over-engineering
+
+## Contact
 - Email: bransonrose_proton@protonmail.com
 - GitHub: https://github.com/BRoseFE
