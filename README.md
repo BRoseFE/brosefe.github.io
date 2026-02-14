@@ -3,7 +3,7 @@
 Junior front-end developer specializing in React, HTML, CSS, and Javascript.
 
 ## Live Site ##
-- https://brosefe.github.io/branson_rose.github.io/
+- https://brosefe.github.io/
 
 ## Tech ##
 - HTML
