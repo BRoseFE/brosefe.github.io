@@ -21,7 +21,7 @@ A lightweight personal portfolio focused on clean layout, responsive design, and
 ---
 
 ## Live Site
-🔗 https://brosefe.github.io/
+🔗 https://bransonrose.dev/
 
 ---
 
