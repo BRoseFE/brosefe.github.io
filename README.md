@@ -35,5 +35,5 @@ A lightweight personal portfolio focused on clean layout, responsive design, and
 ---
 
 ## Contact
-- Email: bransonrose_proton@protonmail.com  
+- Email: branson@bransonrose.dev
 - GitHub: https://github.com/BRoseFE
