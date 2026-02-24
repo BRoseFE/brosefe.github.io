@@ -114,7 +114,7 @@ p {
 }
 
 .mountain-icon {
-  display: inline-blcok;
+  display: inline-block;
   height: min(100px, 20vw);
   width: auto;
   margin-inline: auto;
