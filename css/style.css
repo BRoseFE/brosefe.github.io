@@ -126,7 +126,7 @@ p {
   position: absolute;
   top: 0;
   right: 0;
-  height: 30rem;
+  height: auto;
   width: auto;
   object-fit: contain;
   margin: 0;
