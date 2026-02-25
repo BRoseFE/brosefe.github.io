@@ -127,7 +127,8 @@ p {
   top: 0;
   right: 0;
   height: auto;
-  width: auto;
+  width: min(18rem 28vw);
+  max-height: 26rem;
   object-fit: contain;
   margin: 0;
 }
