@@ -17,6 +17,7 @@ A lightweight personal portfolio focused on clean layout, responsive design, and
 - Keyboard-accessible navigation
 - Semantic HTML for clear content hierarchy
 - Clear typography and spacing for readability
+- Implemented JavaScript-based email obfuscation to reduce automated scraping from static HTML.
 
 ---
 
